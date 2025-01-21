@@ -18,7 +18,7 @@ The *Business Card Generator* is a dynamic web application designed to create vi
 #### *Installation Instructions*
 1. Clone the repository:
    bash
-   git clone https://github.com/Mande-Ketan-11/PHP-Business_Card_Generator
+   git clone https://github.com/Unknownadmin45/Business_Card_Generator
    
 2. Install and start XAMPP (Apache and MySQL).  
 3. Import the provided SQL file into *phpMyAdmin*.  
